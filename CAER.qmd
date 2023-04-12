@@ -1,6 +1,6 @@
 ---
 title: "Donuts and Details: Preparing Oral Presentations"
-author: "Dr. T. Kody Frey"
+author: "Dr. Kody Frey"
 institute: "Assistant Professor | School of Information Science" 
 format: 
   revealjs:
@@ -40,34 +40,177 @@ Let's go over your responses...
 
 ## Speaking Experiences
 
+::: columns
+::: {.column width="50%"}
+Presentations
+
+Seminars
+
+Poster presentations
+
+Lab meetings
+
+Conference presentations
+
+Banquet speeches
+
+Fraternity president
+:::
+
+::: {.column width="50%"}
+Organization president
+
+Work meetings
+
+ASABE conference
+
+Research presentations
+
+Extracurricular activities
+
+Presenting instructions
+
+Advisor meetings
+:::
+:::
+
 ## Comfort Level
+
+**Do you feel comfortable speaking to an audience of researchers in your field?**
+
+::: columns
+::: {.column width="60%"}
+```{mermaid}
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#ffb752',
+      'primaryTextColor': '#fff',
+      'primaryBorderColor': '#7C0000',
+      'lineColor': '#F8B229',
+      'secondaryColor': '#f5e29f',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
+pie title
+    "Yes" : 5
+    "No" : 8
+```
+:::
+
+::: {.column width="40%"}
+For the most part, the group does not feel *too* comfortable with this audience.
+:::
+:::
+
+## Example Fears {.smaller}
+
+"**Lack of confidence** in my knowledge, the pressure of being in front of a knowledgeable group."
+
+"I'm afraid of **not explaining my topic well enough**. Also, I'm afraid of leaving out details or not thinking about certain details that my professors may think are important."
+
+"Having my **peers and professors** call me out on misinformation."
+
+"At this point, I am nervous about **my level of knowledge**/being unable to answer questions that mature researchers might ask. In general though, the speaking itself doesn't make me nervous."
 
 ## Example Fears
 
+"...I always feel unexperienced and unqualified to stand and present in front of researchers that have had ample experience and work in the field. Also since their primary task is to ask questions, I feel like I need to know every component of the topic from large to small, which is quite overwhelming. I feel quite inadequate if I cannot answer a question, which then makes me less comfortable speaking."
+
 ## Feelings
+
+![](images/wordcloud.png){fig-align="center"}
 
 ## Career Plans
 
+- Teacher
+- Lab work
+- Data Analysis
+- R & D
+- Academia
+- College professor (x 4)
+- Commodities broker
+- Industry
+
+## Comparison {.smaller}
+
+::: columns
+::: {.column width="50%"}
+**Strengths:**
+
+Having confidence
+
+Incorporating humor
+
+Creating and organizing slides
+
+Engaging delivery
+
+Translating complex information
+
+Being sociable (not a robot)
+
+Identifying key ideas
+
+Enjoying the process
+
+Projecting voice
+
+Strong evidence
+:::
+
+::: {.column width="50%"}
+**Weakness:**
+
+Composure
+
+Losing train of thought
+
+Anxiety
+
+Speaking slowly
+
+Confidence
+
+Naturalness
+
+Eye contact
+
+Rambling
+
+Answering questions
+:::
+:::
+
 ## The Result?
 
-## Comparison
+**Public speaking will be important in all your careers**
 
-## What does this tell me?
+If nothing else, being a confident speaker can help you stand out.
+
+## Big Picture
+
+![](images/lesson.png){fig-align="center"}
 
 ## Our goals
 
-1.  **Tackling Anxiety and Apprehension**
-    -   Understanding fears and learning to manage them
-2.  **Defining the Donut**
-    -   Defining your objective and actively preparing
-3.  **Presenting as Performance**
-    -   Developing your identity as a speaker and handling Q&A
+**Tackling Anxiety and Apprehension**
+
+  - Understanding fears and learning to manage them
+    
+**Defining the Donut**
+
+  - Defining your objective and actively preparing
+    
+**Presenting as Performance**
+
+  - Developing your identity as a speaker and handling Q&A
 
 # Tackling Anxiety and Apprehension
 
 Understanding fears and learning to manage them
-
-# Preparing with Donuts
 
 ## Situating the Talk
 
@@ -209,7 +352,7 @@ What is the invisible thread that binds your story together?
 :::
 :::
 
-## Planning Your Story
+## Planning Your Story {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
@@ -363,7 +506,6 @@ If you want them to pay attention to you, only use images.
 
 ::: {.column width="50%"}
 ![](images/glass2.png){.absolute top="70" left="550" width="500"}
-
 :::
 :::
 
@@ -383,11 +525,11 @@ flowchart LR
     D-->E
 ```
 
-- **Premise**: What is the donut hole?
-- **Core Conflict**: Brief backstory to get audience invested
-- **Tension**: What are the implications?
-- **Turning Point**: How will we follow to relieve the tension?
-- **Resolution**: Resolve the conflict through your *vision*
+-   **Premise**: What is the donut hole?
+-   **Core Conflict**: Brief backstory to get audience invested
+-   **Tension**: What are the implications?
+-   **Turning Point**: How will we follow to relieve the tension?
+-   **Resolution**: Resolve the conflict through your *vision*
 
 Your throughline connects the pieces
 
@@ -398,7 +540,6 @@ Your throughline connects the pieces
 ## Recap
 
 ::: panel-tabset
-
 ### Comm App
 
 Learn to manage anxiety by turning irrational fears into rational thoughts.
@@ -416,12 +557,11 @@ Adapt the content to the audience.
 Think about how your presentation reflects the identity you want.
 
 Turn your talk into a *story*
-
 :::
 
 # Speaking is hard.
 
-No one expects you to be perfect right away. Embrace the mistakes because theyâ€™ve happened to everyone.
+No one expects you to be perfect right away. Embrace the mistakes because they've happened to everyone.
 
 ## The Conscious Competence Model
 
@@ -431,6 +571,10 @@ No one expects you to be perfect right away. Embrace the mistakes because theyâ€
 
 **What questions do you have?**
 
-Dr. T. Kody Frey
-tkfr222@uky.edu
+Dr. T. Kody Frey 
+
+tkfr222\@uky.edu 
+
 317 Little Library
+
+[@TKFrey](https://twitter.com/TKFrey/status/1550613417261764608)
