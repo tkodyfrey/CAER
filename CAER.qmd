@@ -1,0 +1,436 @@
+---
+title: "Donuts and Details: Preparing Oral Presentations"
+author: "Dr. T. Kody Frey"
+institute: "Assistant Professor | School of Information Science" 
+format: 
+  revealjs:
+    theme: [night]
+    slide-number: true
+    preview-links: auto
+    logo: images/donut.png
+    footer: <tkfr222@uky.edu> | [@TKFrey](https://twitter.com/TKFrey) | [tkodyfrey.github.io/CAER](https://tkodyfrey.github.io/CAER)
+    scrollable: true
+    transition: fade
+    navigation-mode: vertical
+    fig-cap-location: top
+editor: visual
+self-contained: false
+---
+
+# Who Am I?
+
+## T. Kody Frey {.smaller}
+
+::: columns
+::: {.column width="50%"}
+-   Asst. Professor in School of Information Science
+-   Delivered over 50 regional, national, and international conference presentations
+-   Expertise in speech training, assessment, student skill development, and research methods
+-   Teach technical communication skills to first-year STEM students and PhD courses in instructional communication / research methods
+:::
+
+::: {.column width="50%"}
+![](images/Picture1.png){fig-align="right" width="400"}
+:::
+:::
+
+# Public Speaking Questionnaire
+
+Let's go over your responses...
+
+## Speaking Experiences
+
+## Comfort Level
+
+## Example Fears
+
+## Feelings
+
+## Career Plans
+
+## The Result?
+
+## Comparison
+
+## What does this tell me?
+
+## Our goals
+
+1.  **Tackling Anxiety and Apprehension**
+    -   Understanding fears and learning to manage them
+2.  **Defining the Donut**
+    -   Defining your objective and actively preparing
+3.  **Presenting as Performance**
+    -   Developing your identity as a speaker and handling Q&A
+
+# Tackling Anxiety and Apprehension
+
+Understanding fears and learning to manage them
+
+# Preparing with Donuts
+
+## Situating the Talk
+
+"According to most studies, people's number one fear is public speaking. Number two is death. Death is number two? Does that seem right? To the average person that means that if they have to go to a funeral, they'd be better off in the casket than giving the eulogy."
+
+-   Jerry Seinfeld
+
+## What is *Communication Apprehension*?
+
+Defined as "a situation- specific social anxiety that arises from the real or anticipated enactment of an oral presentation" (Bodie, 2010, p. 72)
+
+## Where does it come from?
+
+::: panel-tabset
+### Hereditary
+
+Often manifests due to the presence of certain traits like a speech impediment or monotoned voice.
+
+In 7th grade, my classmates called me 'Lispy'!
+
+### Learned
+
+We become socialized into fearing certain situations, audiences, or contexts.
+
+EX: Meeting your partners parents for the first time??
+
+### Skills Deficit
+
+Uncertainty resulting from how to effectively communication or analyze an audience.
+
+AKA many of us are never taught how to speak!
+:::
+
+## When does it affect us?
+
+![](images/month.png){fig-align="center"}
+
+## Effects {.smaller}
+
+::: columns
+::: {.column width="50%"}
+Internal Effects
+
+-   Physiological
+-   Often unknown to audience but known to speaker
+
+External Effects
+
+-   Behavioral
+-   Often unknown to speaker but visible to audience
+:::
+
+::: {.column width="50%"}
+![](images/boy.png){.absolute top="120" left="650" width="350"}
+:::
+:::
+
+## Strategies for managing apprehension {.smaller}
+
+::: panel-tabset
+### Desensitization
+
+Densensitization helps you become comfortable
+
+Allows you to embrace nerves rather than retreat
+
+![](images/strat1.png){.absolute top="280" left="700" width="300"}
+
+### Restructuring
+
+Ask yourself why this fear is irrational
+
+Think of what you have done to eliminate it
+
+![](images/strat2.png){.absolute top="280" left="700" width="300"}
+
+### Visualization
+
+Picture yourself being successful
+
+Manifests as self-fulfilling prophecy
+
+![](images/strat3.png){.absolute top="280" left="700" width="300"}
+
+### Skills Training
+
+Remember the training you have received
+
+Classes, experiences, and mentors
+
+![](images/strat4.png){.absolute top="280" left="700" width="300"}
+:::
+
+# Preparing with *Donuts*
+
+*Defining your objective and actively preparing*
+
+## Planning Your Story {.smaller}
+
+::: columns
+::: {.column width="50%"}
+**Step 1: Consider the donut**
+
+If the donut is your field, the hole is the gap you're trying to fill.
+
+-   Your research question(s)
+-   Motivate audience to listen
+-   *Focus on what we do not know*
+:::
+
+::: {.column width="50%"}
+![](images/story1.png){.absolute top="205" left="585" width="400"}
+:::
+:::
+
+## Planning Your Story {.smaller}
+
+::: columns
+::: {.column width="50%"}
+**Step 2: Analyze your audience**
+
+Consider the following questions:
+
+-   What do they already know?
+-   Are they required to be here?
+-   What do we have in common?
+-   What do they want to know
+:::
+
+::: {.column width="50%"}
+**Step 3: Identify your throughline**
+
+What is the invisible thread that binds your story together?
+
+-   The scientific method
+-   A central question
+-   An area of study
+-   A conference theme?
+:::
+:::
+
+## Planning Your Story
+
+::: columns
+::: {.column width="50%"}
+**Step 4: Analyze Your audience**
+
+Use *analogies* and little jargon
+
+-   After assessing your audience and identifying your throughline, you can choose language that is appropriate.
+-   Avoid specialized language and use terms that are familiar.
+:::
+
+::: {.column width="50%"}
+**Step 5: End with a clear conclusion**
+
+You should always:
+
+-   Identify what we know now that we did not know before.
+-   Articulate where the research goes next.
+-   Make it memorable!
+:::
+:::
+
+## Complex Topics
+
+![](images/complex.png){fig-align="center"}
+
+## You Try
+
+Think of a research project or topic you are interested in.
+
+**How would you explain this to a group of 2 to 4 year olds?**
+
+## Quantum Physics...for babies?
+
+Chris Ferrie - PhD in Applied Mathematics
+
+Topics range across:
+
+-   General relatively
+-   Bayesian statistics
+-   Electromagnetism
+-   Robotics
+-   Neural networks
+
+## Baby University
+
+What specific strategies do the books take to explain their subject matter?
+
+Are they effective? Why or why not?
+
+## The Hourglass
+
+::: columns
+::: {.column width="50%"}
+-   Tell them what you're going to tell them...
+-   Tell them...
+-   Tell them what you told them...
+:::
+
+::: {.column width="50%"}
+![](images/glass.png){.absolute top="70" left="440" width="600"}
+:::
+:::
+
+## What's Missing?? {.smaller}
+
+::: columns
+::: {.column width="50%"}
+BE SELECTIVE in your details.
+
+-   Highlight critical information
+-   Avoid overwhelming listeners
+-   Keep literature review to a minimum
+:::
+
+::: {.column width="50%"}
+![](images/sum.png){.absolute top="115" left="550" width="500"}
+:::
+:::
+
+# Presenting as *Performance*
+
+Developing your identity as a speaker
+
+## Roots in identity
+
+View your talk as a performance of your identity.
+
+It takes time, preparation, and practice to *convey the image you want* to the audience.
+
+## Delivery
+
+Remember that *energy does not equal* effectiveness.
+
+-   Match your nonverbals to your tone.
+-   Make eye contact with both sides of the room.
+-   Stand to engage the audience.
+-   Avoid self-handicapping.
+-   Practice with keywords.
+-   Take a chance!
+
+## Delivery
+
+The audience does not want to be bored.
+
+Utilize *immediacy* and *speaking to them directly* is engaging.
+
+Attempting to engage with them grants you more leniency for mistakes.
+
+## Visual Aids
+
+The visual aid complements your presentation.
+
+-   Avoid trying to do too much.
+-   Remain consistent in structure and design.
+-   Try to avoid skipping slides.
+-   Use it to define complex ideas.
+-   Show, don't tell.
+-   Put the most important info in the top left.
+
+## Visual Aids
+
+The slides give the audience context.
+
+If you want them to pay attention to you, only use images.
+
+## The 7 Deadly Sins
+
+![](images/ppt.png){fig-align="center"}
+
+## Header
+
+::: columns
+::: {.column width="50%"}
+*Content* to support your talk goes here
+:::
+
+::: {.column width="50%"}
+*Visual* goes here (image, graph, table, chart, etc.)
+:::
+:::
+
+## The Hourglass
+
+::: columns
+::: {.column width="50%"}
+-   Tell them what you're going to tell them...
+-   Tell them...
+-   Tell them what you told them...
+:::
+
+::: {.column width="50%"}
+![](images/glass2.png){.absolute top="70" left="550" width="500"}
+
+:::
+:::
+
+## Scenes in a story {.smaller}
+
+```{mermaid}
+%%| fig-width: 10
+flowchart LR
+    A((Premise))
+    B((Core Conflict))
+    C((Tension))
+    D((Turning Point))
+    E((Resolution))
+    A-->B
+    B-->C
+    C-->D
+    D-->E
+```
+
+- **Premise**: What is the donut hole?
+- **Core Conflict**: Brief backstory to get audience invested
+- **Tension**: What are the implications?
+- **Turning Point**: How will we follow to relieve the tension?
+- **Resolution**: Resolve the conflict through your *vision*
+
+Your throughline connects the pieces
+
+## And then?
+
+![](images/after.png){fig-align="center"}
+
+## Recap
+
+::: panel-tabset
+
+### Comm App
+
+Learn to manage anxiety by turning irrational fears into rational thoughts.
+
+Apprehension is naturally - channel it!
+
+### Donuts!
+
+Remember the hole in the field that you are trying to fill.
+
+Adapt the content to the audience.
+
+### Performance
+
+Think about how your presentation reflects the identity you want.
+
+Turn your talk into a *story*
+
+:::
+
+# Speaking is hard.
+
+No one expects you to be perfect right away. Embrace the mistakes because they’ve happened to everyone.
+
+## The Conscious Competence Model
+
+![](images/cc.png){fig-align="center"}
+
+## Thanks!
+
+**What questions do you have?**
+
+Dr. T. Kody Frey
+tkfr222@uky.edu
+317 Little Library
