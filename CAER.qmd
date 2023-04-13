@@ -14,7 +14,7 @@ format:
     navigation-mode: vertical
     fig-cap-location: top
 editor: visual
-self-contained: false
+self-contained: true
 ---
 
 # Who Am I?
@@ -482,6 +482,12 @@ If you want them to pay attention to you, only use images.
 ## The 7 Deadly Sins
 
 ![](images/ppt.png){fig-align="center"}
+
+## UK Branding
+
+UKY has a variety of professional, branded materials appropriate for your talks:
+
+<https://www.uky.edu/prmarketing/branding-resources/brand-assets>
 
 ## Header
 
